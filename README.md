@@ -11,7 +11,11 @@ Leader : Abou-Bakr.
 Qui fixe l'ordre de la prochaine séance : s'approprier son module, en résumant son contenu.
  
 Prochain Leader : Mathys.
+
+
 Séance 2  :
+
+
 Leader : Mathys qui organise la séquence de la manière suivante.
 1- Rappel de l'organisation de la séquence :
    - Lire les chapitres 1 et 3.
