@@ -27,11 +27,12 @@ Leader : Mathys qui organise la séquence de la manière suivante.
 Séance 3  
 Leader : Tom qui organise la séquence de la manière suivante.
 1- Organisation de la séquence suivante :
-   - Choisir ses outils de développement (Langage et IDE).(Le developpement se fera en python 3)
-   - Chaque groupe lit ses objectifs.
-   - Un résumé devra être envoyé au Leader avant la fin de la séance.
-   - Puis début de la phase de développement.
-   - Le nouveau Leader devra ensuite mettre en place un dépôt GitHub dédié au projet.
+   - [x] Choisir ses outils de développement (Langage et IDE).
+     - (Le developpement se fera en python 3 et l'IDE est Visual Studio Code)
+   - [x] Chaque groupe lit ses objectifs.
+   - [x]Un résumé devra être envoyé au Leader avant la fin de la séance.
+   - [x]Puis début de la phase de développement.
+   -[x] Le nouveau Leader devra ensuite mettre en place un dépôt GitHub dédié au projet.
    - Programme de la prochaine séquence.
-   - Élection du prochain Leader.
+   -[x] Élection du prochain Leader.
  2- Élection du nouveau Leader : .
