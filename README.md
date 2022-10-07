@@ -35,4 +35,4 @@ Leader : Tom qui organise la séquence de la manière suivante.
    -[x] Le nouveau Leader devra ensuite mettre en place un dépôt GitHub dédié au projet.
    - Programme de la prochaine séquence.
    -[x] Élection du prochain Leader.
- 2- Élection du nouveau Leader : .
+ 2- Élection du nouveau Leader Felix : .
