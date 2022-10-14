@@ -32,12 +32,12 @@ Leader : Tom qui organise la séquence de la manière suivante.
    - [x] Chaque groupe lit ses objectifs.
    - [x]Un résumé devra être envoyé au Leader avant la fin de la séance.
    - [x]Puis début de la phase de développement.
-    -[x] Le nouveau Leader devra ensuite mettre en place un dépôt GitHub dédié au projet.
+    - [x] Le nouveau Leader devra ensuite mettre en place un dépôt GitHub dédié au projet.
    - Programme de la prochaine séquence.
      - installation de l'IDE
      - duplication du depot
      - https://github.com/TomBrgtl/T-webenginering 
      - continuer de travailler sur le chapitre
      -remplir l hote du jour
-   -[x] Élection du prochain Leader.
+   - [x] Élection du prochain Leader.
  2- Élection du nouveau Leader Felix : .
